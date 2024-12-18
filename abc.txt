@@ -2,10 +2,20 @@ class abc
 {
 
 public static void main(String[] args)
+
+public void wecome()
+
  {
 
 System.out.println("Hello");
 
 }
 
+public void By()
+
+{
+
+System.out.println("By");
+
+}
 }
